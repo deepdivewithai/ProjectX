@@ -24,7 +24,7 @@ To get a local copy of this project up and running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ProjectX.git
+   (https://github.com/deepdivewithai/ProjectX.git)
    ```
 
 2. **Install dependencies**:
