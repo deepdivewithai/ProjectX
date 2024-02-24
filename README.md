@@ -86,3 +86,26 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+
+
+## Screenshots
+
+Here are some screenshots of our project:
+
+- Dashboard Page
+  ![Dashboard Page](static/images/Dashboard%20Page.png)
+
+- Landing Page
+  ![Landing Page](static/images/Landing%20Page.png)
+
+- Login Page
+  ![Login Page](static/images/Login%20Page.png)
+
+- Registration Page
+  ![Registration Page](static/images/Registration%20Page.png)
+
+- Update Records Page
+  ![Update Records Page](static/images/Update%20Records%20Page.png)
+
+- View Records Page
+  ![View Records Page](static/images/View%20Records%20Page.png)
