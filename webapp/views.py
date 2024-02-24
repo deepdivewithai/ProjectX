@@ -25,7 +25,7 @@ def register(request):
         if form.is_valid():
             form.save()
 
-            messages.success(request, "✔️ Account created successfully!")
+            messages.success(request, "Account created successfully!")
 
             return redirect("webapp:login")
     
