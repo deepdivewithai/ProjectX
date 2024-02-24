@@ -1,10 +1,10 @@
 # ProjectX - CRM Project
 
-Welcome to ProjectX! This is a Customer Relationship Management (CRM) project aimed at helping businesses manage their interactions with current and potential customers.
+Welcome to ProjectX! This is a Customer Relationship Management (CRM) project built using Django, aimed at helping businesses manage their interactions with current and potential customers.
 
 ## Overview
 
-ProjectX is built to streamline various aspects of customer management, including:
+ProjectX is designed to streamline various aspects of customer management, including:
 
 - Storing customer information
 - Tracking interactions and communication history
@@ -23,26 +23,51 @@ ProjectX is built to streamline various aspects of customer management, includin
 To get a local copy of this project up and running, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   https://github.com/deepdivewithai/ProjectX.git
+
+   ```
+   git clone https://github.com/deepdivewithai/ProjectX.git
    ```
 
-2. **Install dependencies**:
-   ```bash
+2. **Navigate to the project directory**:
+
+   ```
    cd ProjectX
-   npm install
    ```
 
-3. **Set up the environment**:
-   - Copy `.env.example` to `.env` and fill in the necessary configuration.
+3. **Set up a virtual environment** (optional but recommended):
 
-4. **Run the project**:
-   ```bash
-   npm start
+   ```
+   python3 -m venv env
+   source env/bin/activate
    ```
 
-5. **Access the application**:
-   Open your web browser and navigate to `http://localhost:3000`.
+4. **Install dependencies**:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+5. **Apply migrations**:
+
+   ```
+   python manage.py migrate
+   ```
+
+6. **Create a superuser** (to access the Django admin interface):
+
+   ```
+   python manage.py createsuperuser
+   ```
+
+7. **Run the development server**:
+
+   ```
+   python manage.py runserver
+   ```
+
+8. **Access the application**:
+
+   Open your web browser and navigate to `http://localhost:8000`.
 
 ## Contributing
 
@@ -60,4 +85,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
