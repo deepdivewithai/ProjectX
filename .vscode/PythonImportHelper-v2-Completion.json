@@ -1,0 +1,778 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordInput",
+        "importPath": "django.forms.widgets",
+        "description": "django.forms.widgets",
+        "isExtraImport": true,
+        "detail": "django.forms.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "django.forms.widgets",
+        "description": "django.forms.widgets",
+        "isExtraImport": true,
+        "detail": "django.forms.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Record",
+        "importPath": "webapp.models",
+        "description": "webapp.models",
+        "isExtraImport": true,
+        "detail": "webapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "isExtraImport": true,
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crm.asgi",
+        "description": "crm.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "crm.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nimport os\nfrom dotenv import load_dotenv\nload_dotenv()\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = os.environ.get('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "SECRET_KEY = os.environ.get('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'webapp',",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'webapp',\n    'crispy_forms',\n    'fontawesomefree',",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'crm.urls'",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "ROOT_URLCONF = 'crm.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / \"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / \"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'crm.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\nSTATIC_ROOT = \"static_root\"",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\nSTATIC_ROOT = \"static_root\"\n# Default primary key field type",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\nSTATIC_ROOT = \"static_root\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\nSTATIC_ROOT = \"static_root\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR / \"static\"\n]\nSTATIC_ROOT = \"static_root\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "STATIC_ROOT = \"static_root\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "crm.settings",
+        "description": "crm.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crm.urls",
+        "description": "crm.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(\"webapp.urls\", namespace='webapp'))\n]\nif settings.DEBUG:\n    urlpatterns+= static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)",
+        "detail": "crm.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crm.wsgi",
+        "description": "crm.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "crm.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webapp.migrations.0001_initial",
+        "description": "webapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Record',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('creation_date', models.DateTimeField(auto_now_add=True)),",
+        "detail": "webapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webapp.migrations.0002_alter_record_email_alter_record_first_name_and_more",
+        "description": "webapp.migrations.0002_alter_record_email_alter_record_first_name_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('webapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='record',\n            name='email',\n            field=models.CharField(max_length=200),\n        ),",
+        "detail": "webapp.migrations.0002_alter_record_email_alter_record_first_name_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "WebappConfig",
+        "kind": 6,
+        "importPath": "webapp.apps",
+        "description": "webapp.apps",
+        "peekOfCode": "class WebappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'webapp'",
+        "detail": "webapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserForm",
+        "kind": 6,
+        "importPath": "webapp.forms",
+        "description": "webapp.forms",
+        "peekOfCode": "class CreateUserForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ['username',\n                  'email',\n                  'password1',\n                  'password2']\n# Login User\nclass LoginForm(AuthenticationForm):\n    username = forms.CharField(widget=TextInput())",
+        "detail": "webapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoginForm",
+        "kind": 6,
+        "importPath": "webapp.forms",
+        "description": "webapp.forms",
+        "peekOfCode": "class LoginForm(AuthenticationForm):\n    username = forms.CharField(widget=TextInput())\n    password = forms.CharField(widget=PasswordInput())\n# Create Records\nclass CreateRecordForm(forms.ModelForm):\n    class Meta:\n        model = Record\n        fields = \"__all__\"\n# Update Records\nclass UpdateRecordForm(forms.ModelForm):",
+        "detail": "webapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CreateRecordForm",
+        "kind": 6,
+        "importPath": "webapp.forms",
+        "description": "webapp.forms",
+        "peekOfCode": "class CreateRecordForm(forms.ModelForm):\n    class Meta:\n        model = Record\n        fields = \"__all__\"\n# Update Records\nclass UpdateRecordForm(forms.ModelForm):\n    class Meta:\n        model = Record\n        fields = \"__all__\"",
+        "detail": "webapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateRecordForm",
+        "kind": 6,
+        "importPath": "webapp.forms",
+        "description": "webapp.forms",
+        "peekOfCode": "class UpdateRecordForm(forms.ModelForm):\n    class Meta:\n        model = Record\n        fields = \"__all__\"",
+        "detail": "webapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Record",
+        "kind": 6,
+        "importPath": "webapp.models",
+        "description": "webapp.models",
+        "peekOfCode": "class Record(models.Model):\n    creation_date = models.DateTimeField(auto_now_add=True)\n    first_name = models.CharField(max_length=200)\n    last_name = models.CharField(max_length=200)\n    email = models.CharField(max_length=200)\n    phone = models.CharField(max_length=10)\n    address = models.CharField(max_length=300)\n    city = models.CharField(max_length=20)\n    province = models.CharField(max_length=20)\n    country = models.CharField(max_length=20)",
+        "detail": "webapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "webapp.urls",
+        "description": "webapp.urls",
+        "peekOfCode": "app_name = \"webapp\"\nurlpatterns = [\n    path(\"\", views.landing_page, name=\"home\"),\n    path(\"register\", views.register, name=\"register\"),\n    path(\"login\", views.my_login, name=\"login\"),\n    path(\"logout\", views.user_logout, name=\"logout\"),\n    # CRUD\n    path(\"dashboard\", views.dashboard, name=\"dashboard\"),\n    path(\"view-record/<int:pk>\", views.view_record, name=\"record\"),\n    path(\"create-record\", views.create_record, name=\"create\"),",
+        "detail": "webapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "webapp.urls",
+        "description": "webapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.landing_page, name=\"home\"),\n    path(\"register\", views.register, name=\"register\"),\n    path(\"login\", views.my_login, name=\"login\"),\n    path(\"logout\", views.user_logout, name=\"logout\"),\n    # CRUD\n    path(\"dashboard\", views.dashboard, name=\"dashboard\"),\n    path(\"view-record/<int:pk>\", views.view_record, name=\"record\"),\n    path(\"create-record\", views.create_record, name=\"create\"),\n    path(\"update-record/<int:pk>\", views.update_record, name=\"update\"),",
+        "detail": "webapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "landing_page",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def landing_page(request):\n    return render(request, \"webapp/index.html\")\n# Register\ndef register(request):\n    form = CreateUserForm()\n    if request.method == 'POST':\n        form = CreateUserForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, \"✔️ Account created successfully!\")",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def register(request):\n    form = CreateUserForm()\n    if request.method == 'POST':\n        form = CreateUserForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, \"✔️ Account created successfully!\")\n            return redirect(\"webapp:login\")\n    context = {\n        'form': form,",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "my_login",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def my_login(request):\n    form = LoginForm()\n    if request.method == \"POST\":\n        form = LoginForm(request, data=request.POST)\n        if form.is_valid():\n            username = request.POST['username']\n            password = request.POST['password']\n            user = authenticate(request, username=username, password=password)\n            if user is not None:\n                login(request, user)",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def dashboard(request):\n    records = Record.objects.all()\n    context = {\n        \"records\": records,\n    }\n    return render(request, \"webapp/dashboard.html\", context)\n# Logout\ndef user_logout(request):\n    logout(request)\n    messages.success(request, \"You are Logged out! 👋👋👋\")",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_logout",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def user_logout(request):\n    logout(request)\n    messages.success(request, \"You are Logged out! 👋👋👋\")\n    return redirect(\"webapp:login\")\n# Read / View a singular Record\n@login_required(login_url=\"webapp:login\")\ndef view_record(request,pk):\n    record = Record.objects.get(id=pk)\n    context = {'record': record}\n    return render(request, \"webapp/view-record.html\", context)",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "view_record",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def view_record(request,pk):\n    record = Record.objects.get(id=pk)\n    context = {'record': record}\n    return render(request, \"webapp/view-record.html\", context)\n# Create a record\n@login_required(login_url=\"webapp:login\")\ndef create_record(request):\n    form = CreateRecordForm()\n    if request.method == \"POST\":\n        form = CreateRecordForm(request.POST)",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_record",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def create_record(request):\n    form = CreateRecordForm()\n    if request.method == \"POST\":\n        form = CreateRecordForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, \"Your record was created!\")\n            return redirect(\"webapp:dashboard\")\n    context = {\n        'form': form",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_record",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def update_record(request, pk):\n    record = Record.objects.get(id=pk)\n    form = UpdateRecordForm(instance=record)\n    if request.method == \"POST\":\n        form = UpdateRecordForm(request.POST, instance=record)\n        if form.is_valid():\n            form.save()\n            messages.success(request, \"Your record was updated!\")\n            return redirect(\"webapp:dashboard\")\n    context = {",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_record",
+        "kind": 2,
+        "importPath": "webapp.views",
+        "description": "webapp.views",
+        "peekOfCode": "def delete_record(request, pk):\n    record = Record.objects.get(id=pk)\n    record.delete()\n    messages.success(request, \"Your record was deleted!\")\n    return redirect(\"webapp:dashboard\")",
+        "detail": "webapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crm.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

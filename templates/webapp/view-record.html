@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="card">
+    <div class="card-body">
+
+        <strong class="text-center">
+            <i class="fa fa-user-circle-o"></i>
+            &nbsp;
+            {{ record.last_name | upper }}
+            {{ record.first_name | upper }}
+        </strong>
+        <hr>
+        <p><strong>ID:</strong>{{record.id}}</p>
+        <p><strong>Full Name:</strong> {{record.first_name}} {{record.last_name}}</p>
+        <p><strong>Email:</strong> {{record.email}}</p>
+        <p><strong>Phone Number:</strong> {{record.phone}}</p>
+        <p><strong>Address:</strong> {{record.address}}</p>
+        <p><strong>City:</strong> {{record.city}}</p>
+        <p><strong>Province:</strong> {{record.province}}</p>
+        <p><strong>Country:</strong> {{record.country}}</p>
+        <p><strong>Date Joined:</strong> {{record.creation_date}}</p>
+
+    </div>
+</div>
+<hr>
+<a href="{% url 'webapp:dashboard' %}" class="btn btn-secondary"><i class="fa-regular fa-circle-left"></i> &nbsp; Return
+</a>
+&nbsp;
+<a href="{% url 'webapp:update' record.pk %}" class="btn btn-info">Update record &nbsp; <i
+        class="fa-solid fa-user-pen"></i></a>
+&nbsp;
+
+<a href="{% url 'webapp:delete' record.pk %}" class="btn btn-danger">Delete record &nbsp; <i
+        class="fa-solid fa-user-xmark"></i></a>
+
+{% endblock content %}
