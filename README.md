@@ -37,8 +37,8 @@ To get a local copy of this project up and running, follow these steps:
 3. **Set up a virtual environment** (optional but recommended):
 
    ```
-   python3 -m venv env
-   source env/bin/activate
+   python -m venv env
+   venv\Scripts\activate
    ```
 
 4. **Install dependencies**:
