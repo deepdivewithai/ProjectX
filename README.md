@@ -2,6 +2,28 @@
 
 Welcome to ProjectX! This is a Customer Relationship Management (CRM) project built using Django, aimed at helping businesses manage their interactions with current and potential customers.
 
+## Screenshots
+
+Here are some screenshots of our project:
+
+- Dashboard Page
+  ![Dashboard Page](static/images/Dashboard%20Page.png)
+
+- Landing Page
+  ![Landing Page](static/images/Landing%20Page.png)
+
+- Login Page
+  ![Login Page](static/images/Login%20Page.png)
+
+- Registration Page
+  ![Registration Page](static/images/Registration%20Page.png)
+
+- Update Records Page
+  ![Update Records Page](static/images/Update%20Records%20Page.png)
+
+- View Records Page
+  ![View Records Page](static/images/View%20Records%20Page.png)
+
 ## Overview
 
 ProjectX is designed to streamline various aspects of customer management, including:
@@ -86,26 +108,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, please contact [chetan.aiofficial@gmail.com](mailto:chetan.aiofficial@gmail.com).
-
-
-## Screenshots
-
-Here are some screenshots of our project:
-
-- Dashboard Page
-  ![Dashboard Page](static/images/Dashboard%20Page.png)
-
-- Landing Page
-  ![Landing Page](static/images/Landing%20Page.png)
-
-- Login Page
-  ![Login Page](static/images/Login%20Page.png)
-
-- Registration Page
-  ![Registration Page](static/images/Registration%20Page.png)
-
-- Update Records Page
-  ![Update Records Page](static/images/Update%20Records%20Page.png)
-
-- View Records Page
-  ![View Records Page](static/images/View%20Records%20Page.png)
