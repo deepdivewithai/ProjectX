@@ -1,4 +1,4 @@
-# ProjectX - CRM Project
+# CRM Project
 
 Welcome to ProjectX! This is a Customer Relationship Management (CRM) project built using Django, aimed at helping businesses manage their interactions with current and potential customers.
 
